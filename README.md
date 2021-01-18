@@ -53,8 +53,13 @@ Template by Best-README-Template.
 
 <!-- ABOUT THE PROJECT -->
 ## ✏️ About The Project
+<p>
+  <img width="220" src="./checkpoints/human_pix2pix/web/images/epoch163_fake_B.png">
+  <img width="220" src="./checkpoints/human_pix2pix/web/images/epoch193_fake_B.png">
+  <img width="220" src="./checkpoints/human_pix2pix/web/images/epoch182_fake_B.png">
+  <img width="220" src="./checkpoints/human_pix2pix/web/images/epoch192_fake_B.png">
+</p>
 
-![Product Name Screen Shot](Susanna_header.gif)
 
 The Susanna Project is an Under Development and OpenSource project created by **Vittorio Rivabella** and **Michele Vece**.
 
@@ -87,8 +92,9 @@ We're providing a local Python RESTful API, feel free to explore the currently i
 
 We aim to change our stack soon, feel free to suggest changes opening an [issue](https://github.com/Eversmile12/susanna-server/issues).
 
+
 <!-- GETTING STARTED -->
-## 💻 Getting Started
+##💻 Getting Started
 
 To get a local copy up and running follow these simple steps.
 
@@ -152,13 +158,14 @@ The following instructions are for Windows Users only.
 <!-- USAGE EXAMPLES -->
 ## ✍️ Usage
 
-1. Clone the Demo Client repo [here](https://github.com/Eversmile12/client-susanna).
+1. Clone the Demo Client repo [here](https://github.com/Eversmile12/susanna-client).
 
 2. Start the Python server as shown above.
 
 3. Inside the Susanna-client folder, open index.html
 
-  *For more informations about the Client refer to the [Client Documentation]()*
+![Product Name Screen Shot](Susanna_header.gif)
+  *For more informations about the Client refer to the [Client Documentation](https://github.com/Eversmile12/susanna-client)*
 
 
 <!-- CONTRIBUTING -->
