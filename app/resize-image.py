@@ -2,11 +2,7 @@ import cv2
 import numpy as np
 import os
 
-<<<<<<< HEAD
 # TODO: comment function
-=======
-
->>>>>>> 5ab65389e1a198dcffe8e0a5caa63f88d5ac17a9
 
 def stackImages(scale, imgArray):
     rows = len(imgArray)

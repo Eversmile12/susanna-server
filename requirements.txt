@@ -1,3 +1,12 @@
+opencv_python==4.5.1.48
+numpy==1.19.5
+scipy==1.6.0
+Flask==1.1.2
+Werkzeug==1.0.1
+requests==2.25.1
+Flask_Cors==3.0.10
+Pillow==8.1.0
+skimage==0.0
 torch>=1.4.0
 torchvision>=0.5.0
 dominate>=2.4.0

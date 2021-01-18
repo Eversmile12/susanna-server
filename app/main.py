@@ -46,15 +46,11 @@ def predict():
             # Create renaming system;
             filename = secure_filename(file.filename)
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-<<<<<<< HEAD
         # TODO: Get rid of subprocess for resize-image
-        subprocess.run(["python", "resize-image.py"])
         print("resize done")
         # TODO: add some comments here as well
-=======
         subprocess.run(["python", "resize-image.py"])
         print("resize done")
->>>>>>> 5ab65389e1a198dcffe8e0a5caa63f88d5ac17a9
         subprocess.run(["python", "./test.py", "--dataroot", "./datasets/uploads", "--name",  "human_pix2pix", "--model", "pix2pix", "--direction", "BtoA", "--batch_size", "256", "--gpu_ids", "-1"], cwd = "C:\\Users\\smile\\00_repos\\susanna-server\\" )
 
     return jsonify({"process": "ok"})
