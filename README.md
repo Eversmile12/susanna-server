@@ -20,18 +20,16 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+![Contributors](https://img.shields.io/github/contributors/Eversmile12/susanna-server)
+![Last Commit](https://img.shields.io/github/last-commit/Eversmile12/susanna-server/master)
+![Issues](https://img.shields.io/github/issues/Eversmile12/susanna-server)
+[![License](https://img.shields.io/badge/License-Gnu%203.0-blue.svg)](./LICENSE.txt)
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Susanna Humans</h3>
+  <h3 align="center">Susanna Humans 🤖</h3> 
 
   <p align="center">
     Trained on a huge set of anatomycal references,<br><strong>Susanna Humans</strong> is an Under-development Artistic Machine Learning project that uses <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">Pix2Pix CycleGAN source code</a> to colorize Humans Figures.
@@ -39,8 +37,6 @@
     <a href="https://github.com/Eversmile12/susanna-server"><strong>Demo Client Repository »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Eversmile12/susanna-server">View Demo</a>
-    ·
     <a href="https://github.com/Eversmile12/susanna-server/issues">Report Bug</a>
     ·
     <a href="https://github.com/Eversmile12/susanna-server/issues">Request Feature</a>
@@ -77,13 +73,13 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ✏️ About The Project
 
 ![Product Name Screen Shot](Susanna_header.gif)
 
 The Susanna Project is an Under Development and OpenSource project created by **Vittorio Rivabella** and **Michele Vece**.
 
-Susanna uses the Pix2Pix algorithm and source code and has been trained on hundreds of high quality human anatomy images.
+Susanna uses the [Pix2Pix algorithm and source code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) and has been trained on hundreds of high quality human anatomy images.
 
 **Translate your lines into full painted drawings in a "snap".**
 
@@ -96,24 +92,24 @@ This project is far from finished but we'd love to involve the community in shap
 
 We're providing a local Python RESTful API, feel free to explore the currently implemented functionalities.
 
-### Built With
+### ⚙️ Built With 
 
 #### Server:
-* [Python]()
-* [Flask]()
-* [Shell]()
-* [Jupyter Notebook]()
+* [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Jupyter Notebook](https://jupyter.org/)
+* Shell
 
 #### Demo Client:
-* [HTML]()
-* [CSS]()
-* [Javascript]()
-* [JQuery]()
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/html/)
+* [Javascript](https://www.w3schools.com/js/DEFAULT.asp)
+* [JQuery](https://jquery.com/)
 
-We aim to change our stack soon, feel free to suggest changes opening an issue.
+We aim to change our stack soon, feel free to suggest changes opening an [issue](https://github.com/Eversmile12/susanna-server/issues).
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 💻 Getting Started
 
 To get a local copy up and running follow these simple steps.
 
@@ -121,7 +117,7 @@ To get a local copy up and running follow these simple steps.
 
 The following instructions are for Windows Users only.
 
-* Python 3.6+ and PIP
+* Python 3.6+ and pip3
   * Check if you already have python3 and installed by running
     ```sh
     $ python3 --version
@@ -175,7 +171,7 @@ The following instructions are for Windows Users only.
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## ✍️ Usage
 
 1. Clone the Demo Client repo [here]().
 
@@ -187,7 +183,7 @@ The following instructions are for Windows Users only.
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🙏 Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
