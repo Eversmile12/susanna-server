@@ -115,19 +115,19 @@ The following instructions are for Windows Users only.
 
 1. Clone the repo.
    ```sh
-   $ git clone https://github.com/Eversmile12/susanna-server.git
+    $ git clone https://github.com/Eversmile12/susanna-server.git
    ```
 2. Open the project folder using the terminal and install pip3 virtual environment.
     ```sh
-    $ pip3 install virtualenv
+      $ pip3 install virtualenv
     ```
 3. Create the virtual environment.
      ```sh
-    $ virtualenv venv
+      $ virtualenv venv
     ```
 4. Activate the virtual environment.
     ```sh
-    $ venv\Scripts\activate
+      $ venv\Scripts\activate
     ```
     You should now see (venv) before your terminal directory.
     ![asd](Cattura.jpg)
