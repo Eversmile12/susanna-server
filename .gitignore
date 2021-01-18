@@ -6,7 +6,6 @@ build/
 dist/
 checkpoints/
 venv/
-*.png
 torch.egg-info/
 */**/__pycache__
 torch/version.py
