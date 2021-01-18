@@ -54,10 +54,10 @@ Template by Best-README-Template.
 <!-- ABOUT THE PROJECT -->
 ## ✏️ About The Project
 <p>
-  <img width="220" src="./graphic-assets/epoch163_fake_B.png">
-  <img width="220" src="./graphic-assets/epoch193_fake_B.png">
-  <img width="220" src="./graphic-assets/epoch182_fake_B.png">
-  <img width="220" src="./graphic-assets/epoch192_fake_B.png">
+  <img width="200" src="./graphic-assets/epoch192_fake_B.png">
+  <img width="200" src="./graphic-assets/epoch163_fake_B.png">
+  <img width="200" src="./graphic-assets/epoch193_fake_B.png">
+  <img width="200" src="./graphic-assets/epoch182_fake_B.png">
 </p>
 
 
