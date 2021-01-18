@@ -134,6 +134,7 @@ The following instructions are for Windows Users only.
      ```sh
     $ virtualenv venv
     ```
+    **If you get the "virtualenv is not a recognized command, be sure to add Python to your PATH system variable**
 4. Activate the virtual environment.
     ```sh
     $ venv\Scripts\activate
