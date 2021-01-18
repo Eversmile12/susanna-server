@@ -124,35 +124,35 @@ The following instructions are for Windows Users only.
 
 1. Clone the repo.
    ```sh
-    $ git clone https://github.com/Eversmile12/susanna-server.git
+   $ git clone https://github.com/Eversmile12/susanna-server.git
    ```
 2. Open the project folder using the terminal and install pip3 virtual environment.
     ```sh
-      $ pip3 install virtualenv
+    $ pip3 install virtualenv
     ```
 3. Create the virtual environment.
      ```sh
-      $ virtualenv venv
+    $ virtualenv venv
     ```
 4. Activate the virtual environment.
     ```sh
-      $ venv\Scripts\activate
+    $ venv\Scripts\activate
     ```
     You should now see (venv) before your terminal directory.
-    ![Terminal Screenshot](./venv.jpg)
+    ![Terminal Screenshot](Cattura.jpg)
 
 5. Install the required dependencies into the virtual environment.
-     ```sh
-        $ pip install -r requirements.txt
+    ```sh
+    $ pip install -r requirements.txt
     ```
 6. Set up virtual environment variables for Flask.
     ```sh
-        $ set FLASK_APP=main.py
-        $ set FLASK_ENV=development
+    $ set FLASK_APP=main.py
+    $ set FLASK_ENV=development
     ```
 7. Run Flask Server going into the "app" directory.
     ```sh
-        $ flask run
+    $ flask run
     ```
 
 *For more informations on how to run your Flask server pleaser refer to [Official Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/installation/)*
