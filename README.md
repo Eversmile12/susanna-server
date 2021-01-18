@@ -173,7 +173,7 @@ The following instructions are for Windows Users only.
 <!-- USAGE EXAMPLES -->
 ## ✍️ Usage
 
-1. Clone the Demo Client repo [here]().
+1. Clone the Demo Client repo [here](https://github.com/Eversmile12/client-susanna).
 
 2. Start the Python server as shown above.
 
