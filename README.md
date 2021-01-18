@@ -94,7 +94,7 @@ We aim to change our stack soon, feel free to suggest changes opening an [issue]
 
 
 <!-- GETTING STARTED -->
-##💻 Getting Started
+## 💻 Getting Started
 
 To get a local copy up and running follow these simple steps.
 
