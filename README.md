@@ -34,7 +34,7 @@
   <p align="center">
     Trained on a huge set of anatomycal references,<br><strong>Susanna Humans</strong> is an Under-development Artistic Machine Learning project that uses <a href="https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix">Pix2Pix CycleGAN source code</a> to colorize Humans Figures.
     <br />
-    <a href="https://github.com/Eversmile12/susanna-server"><strong>Demo Client Repository »</strong></a>
+    <a href="https://github.com/Eversmile12/susanna-client"><strong>Demo Client Repository »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Eversmile12/susanna-server/issues">Report Bug</a>
