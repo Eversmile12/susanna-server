@@ -130,7 +130,7 @@ The following instructions are for Windows Users only.
       $ venv\Scripts\activate
     ```
     You should now see (venv) before your terminal directory.
-    ![asd](Cattura.jpg)
+    ![Terminal Screenshot](./venv.jpg)
 
 5. Install the required dependencies into the virtual environment.
      ```sh
