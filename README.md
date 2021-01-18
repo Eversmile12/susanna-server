@@ -75,6 +75,9 @@ This project is far from finished but we'd love to involve the community in shap
 
 
 We're providing a local Python RESTful API, feel free to explore the currently implemented functionalities.
+<br/>
+<br/>
+**Attention:** The project is missing the Checkpoint folder with the trained algorithm (2GB). Please Contact iwasvitto@gmail.com to get the file.
 
 ### ⚙️ Built With 
 
